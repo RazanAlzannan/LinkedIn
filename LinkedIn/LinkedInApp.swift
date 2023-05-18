@@ -11,7 +11,7 @@ import SwiftUI
 struct LinkedInApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Onboarding_1()
         }
     }
 }
